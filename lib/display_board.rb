@@ -15,7 +15,7 @@ def display_board (board)
   print " | "
   print "#{board[4]}"
   print " | "
-  puts " #{board[5]}"
+  puts "#{board[5]}"
   puts "------"
   print " #{board[6]}"
   print " | "
