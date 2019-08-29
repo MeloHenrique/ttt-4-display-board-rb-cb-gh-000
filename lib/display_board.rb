@@ -5,22 +5,22 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board (board)
 
-  print " #{board[0]} "
+  print " #{board[0]}"
   print " | "
-  print " #{board[1]} "
+  print " #{board[1]}"
   print " | "
-  print " #{board[2]} "
+  print " #{board[2]}"
   puts "------"
-  print " #{board[3]} "
+  print " #{board[3]}"
   print " | "
-  print " #{board[4]} "
+  print " #{board[4]}"
   print " | "
-  print " #{board[5]} "
+  print " #{board[5]}"
   puts "------"
-  print " #{board[6]} "
+  print " #{board[6]}"
   print " | "
-  print " #{board[7]} "
+  print " #{board[7]}"
   print " | "
-  print " #{board[8]} "
+  print " #{board[8]}"
 
 end
